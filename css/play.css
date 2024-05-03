@@ -1,0 +1,6 @@
+.b-player {display:inline-block;padding-right: 10px;padding-top: 50px;}
+.b-player_button {display:block;position:fixed;background:url(./../images/play.svg) fill;padding:0;z-index:9999;}
+.b-player .play {display:block;position:relative;margin:auto;width:100px;height:100px;border-radius:0px;overflow:hidden;background:url(./../images/play.svg) center center no-repeat;background-size:100px 100px;cursor:pointer;}
+.b-player .play.active {background: url(./../images/pause.svg) center center no-repeat;}
+
+#air-audio {display:none}

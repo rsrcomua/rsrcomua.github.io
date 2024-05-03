@@ -1,0 +1,38 @@
+#header-img-modal .bg-wrap {
+	background: linear-gradient(to bottom, #121212, #242424);
+}
+
+
+#header-img-modal .bg {
+	background-image: url('../images/wallm.jpg');
+    background-repeat: No-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 0.07;
+}
+
+#desc-text-img-5 .bg-wrap {
+    background: #000000;
+}
+
+#dnts .bg-wrap {
+    background: #121212 ;
+}
+#dnts-a .bg-wrap {
+	background: #282626;
+}
+	
+#footer-text-logo .bg-wrap {
+	background: #000000;
+}
+
+#sep-bottom-8 .bg-wrap {
+background-color: rgba(255, 255, 255, 0);
+}
+
+#sep-bottom-8 .bg {
+    background-image: url('../images/bg-paint-bottom.png');
+    background-repeat: repeat-x;
+    background-position: center bottom;
+    background-size: auto 50px;
+}
